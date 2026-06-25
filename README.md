@@ -11,3 +11,5 @@ Try it now. You can start by opening the md file in the repository or by clickin
 link to md file or something
 ```
 (not yet implemented)
+
+Actually don't try it yet. It will be kinda usable in maby a month or two. I will then try to keep improving it.
